@@ -11,4 +11,14 @@
 - 输出标准化的交易数据表格
 - 为后续分析（如 Token 分析、地址画像等）做准备
 
-## 🔧
+## 🔧 技术栈
+
+- Python 3.x
+- [pandas](https://pandas.pydata.org/)
+- [requests](https://docs.python-requests.org/)
+- 可选：matplotlib（用于可视化扩展）
+
+## 📥 安装依赖
+
+```bash
+pip install pandas requests
